@@ -22,6 +22,8 @@ Before you can use this script, make sure you have completed the following steps
 ```shell
 $ sudo apt-get update
 
+###
+
 **Step 3:**  Install the AWS CLI on your EC2 instance:
 
 ```shell
